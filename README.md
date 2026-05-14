@@ -9,7 +9,7 @@ Manual QA artifacts for [Etsy.com](https://www.etsy.com/) — a global marketpla
 This repository contains manual testing documentation created as part of my QA practice. The goal is to demonstrate skills in test design, defect reporting, and structured QA documentation.
 
 **Testing scope:** Web application (desktop browser)  
-**Environment:** Chrome 124 / Windows 11  
+**Environment:** Chrome 148 / Ubuntu 20  
 **Testing type:** Functional, UI, Regression (manual)
 
 ---
