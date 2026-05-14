@@ -61,14 +61,11 @@ test-documentation/
 
 | ID | Module | Title | Priority |
 |----|--------|-------|----------|
-| TC-001 | Auth | Successful sign in with valid credentials | High |
-| TC-002 | Auth | Sign in with invalid password — error message | High |
-| TC-003 | Search | Search by keyword returns relevant results | High |
-| TC-004 | Search | Filter by price range narrows results correctly | Medium |
-| TC-005 | Cart | Add item to cart from product page | High |
-| TC-006 | Cart | Remove item from cart | Medium |
-| TC-007 | Checkout | Proceed to checkout without login — redirect to sign in | High |
-| TC-008 | Product | Add item to favourites when logged in | Medium |
+| TC001 | Reg | Successful user registration with valid data via email | High |
+| TC002 | Reg | Successful user registration with valid data via Google | High |
+| TC003 | Reg | Successful user registration with valid data via Apple account | High |
+| TC004 | Reg | Successful user registration with valid data via Facebook account | High |
+| TC005 | Reg | Successful user registration with valid data via email and password | High |
 
 > Full test cases with steps and expected results: [`test-cases/`](./test-cases/)
 
@@ -78,9 +75,9 @@ test-documentation/
 
 | ID | Title | Severity | Status |
 |----|-------|----------|--------|
-| BUG-001 | Search filter "Price: High to Low" resets after page reload | Medium | Open |
-| BUG-002 | Cart quantity counter doesn't update without page refresh | High | Open |
-| BUG-003 | Generic error message displayed on invalid email format at login | Low | Open |
+| ETSY-1 | No warning for empty coupon activation. | Minor | Open |
+| ETSY-2 | "City" field accepts numeric values without error | Minor | Open |
+| BUG-003 | Invalid profile image upload redirects to another page | Minor | Open |
 
 > Full bug reports with screenshots and steps to reproduce: [`bug-reports/`](./bug-reports/)
 
