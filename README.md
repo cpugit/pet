@@ -77,7 +77,7 @@ test-documentation/
 |----|-------|----------|--------|
 | ETSY-1 | No warning for empty coupon activation. | Minor | Open |
 | ETSY-2 | "City" field accepts numeric values without error | Minor | Open |
-| BUG-003 | Invalid profile image upload redirects to another page | Minor | Open |
+| ETSY-5 | Invalid profile image upload redirects to another page | Minor | Open |
 
 > Full bug reports with screenshots and steps to reproduce: [`bug-reports/`](./bug-reports/)
 
