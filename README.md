@@ -97,8 +97,4 @@ test-documentation/
 ## 👤 Author
 
 **[roman m.]**  
-Junior QA Engineer  
-📧 2698092@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dotdev/)  
-
-> Open to Junior QA opportunities — manual testing with basic Java/Selenium skills.
+QA Engineer  
